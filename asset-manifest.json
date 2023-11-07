@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe633b11.css",
+    "main.js": "/static/js/main.0431cba9.js",
+    "static/js/787.53d6a092.chunk.js": "/static/js/787.53d6a092.chunk.js",
+    "static/media/Paisaje3.jpg": "/static/media/Paisaje3.2a45210cd38c44bb40b1.jpg",
+    "static/media/youtube.jpg": "/static/media/youtube.df66e88d4552234b9139.jpg",
+    "static/media/nasa.jpg": "/static/media/nasa.85044bed48dc1f067b1f.jpg",
+    "static/media/Paisaje2.jpg": "/static/media/Paisaje2.4dbcf1aaf79253211d8a.jpg",
+    "static/media/clima.jpg": "/static/media/clima.eb3ac3e7ee6529429264.jpg",
+    "static/media/Paisaje1.jpg": "/static/media/Paisaje1.cd75572805bd42f5d3d6.jpg",
+    "static/media/prueba.jpg": "/static/media/prueba.2cd599a7e811f98911a1.jpg",
+    "index.html": "/index.html",
+    "main.fe633b11.css.map": "/static/css/main.fe633b11.css.map",
+    "main.0431cba9.js.map": "/static/js/main.0431cba9.js.map",
+    "787.53d6a092.chunk.js.map": "/static/js/787.53d6a092.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe633b11.css",
+    "static/js/main.0431cba9.js"
+  ]
+}
