@@ -1,0 +1,39 @@
+.letra{
+    color: #40513B;
+    max-width: 300 px;
+    font-size: 2.5em;
+    font-family: Lato, sans-serif;
+    font-weight: 700;
+    line-height: 1.1;
+    margin: 40px 0;
+    text-align: center;
+}
+
+.contene{
+    background: #9DC08B;
+    min-height: 600px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px 10px 10px 10px;
+    margin: 15px;
+    text-align: center;
+}
+
+.contenedorImagens{
+    width: 500px;
+    height: 350px;
+    border-radius: 10px 10px 10px 10px;
+    margin: 15px;
+}
+
+.contenedorTexto{
+    text-align: center;
+    width: 500px;
+}
+
+.textos{
+    color: #40513B;
+    font-family: Lato, sans-serif;
+    justify-content: baseline;
+    text-align: center;
+}

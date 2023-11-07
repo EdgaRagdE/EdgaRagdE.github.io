@@ -1,0 +1,50 @@
+h1{
+    color: #40513B;
+    max-width: 300 px;
+    font-size: 2.5em;
+    font-family: Lato, sans-serif;
+    font-weight: 700;
+    line-height: 1.1;
+    margin: 40px 0;
+}
+
+.nombre{
+    color: #40513B;
+    background-color: #609966;
+    max-width: 300 px;
+    font-size: 2.5em;
+    font-family: Lato, sans-serif;
+    font-weight: 700;
+    line-height: 1.1;
+    margin: 40px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.contenedore{
+    background: #9DC08B;
+    min-height: 30%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px 10px 10px 10px;
+    margin: 15px;
+    text-align: center;    
+}
+
+.contenedorImagene{
+    text-align: center;
+    width: 50%;
+    height: 350px;
+    border-radius: 360px 360px 360px 360px;
+    margin: 15px;
+}
+
+.contenedorTexto{
+    width: 800px;
+}
+
+.textoss{
+    color: #40513B;
+    text-align: justify;
+}

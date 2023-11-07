@@ -1,0 +1,73 @@
+.aa{
+    color: #40513B;
+    max-width: 300 px;
+    font-size: 2.5em;
+    font-family: Lato, sans-serif;
+    font-weight: 700;
+    line-height: 1.1;
+    margin: 40px 0;
+}
+
+.nombre{
+    color: #40513B;
+    background-color: #609966;
+    max-width: 300 px;
+    font-size: 2.5em;
+    font-family: Lato, sans-serif;
+    font-weight: 700;
+    line-height: 1.1;
+    margin: 40px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.contenedor{
+    background: #9DC08B;
+    min-height: 30%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px 10px 10px 10px;
+    margin: 15px;
+}
+
+.contenedorImagen{
+    text-align: center;
+    width: 80%;
+    height: 350px;
+    border-radius: 360px 360px 360px 360px;
+    margin: 15px;
+}
+
+.contenedorTexto{
+    width: 800px;
+}
+
+.texto{
+    color: #40513B;
+    text-align: justify;
+    margin: 1.5%;
+}
+
+.buttonClassPrimary{
+    background-color: #9DC08B;
+    color: #40513B;
+    font-size: xx-large;
+    margin: 10px;
+    outline: 2px solid #40513B;
+    outline-offset: 3px;
+    border-radius: 10px; 
+    text-decoration: none;
+    text-align: center;
+}
+
+.buttonClassPrimary:hover{
+    background-color: #40513B;
+    color: #9DC08B;
+    font-size: xx-large;
+    margin: 10px;
+    outline: 2px solid #9DC08B;
+    outline-offset: 3px;
+    border-radius: 10px; 
+    text-align: center;
+}
