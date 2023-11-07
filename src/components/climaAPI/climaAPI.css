@@ -1,0 +1,42 @@
+.buttonClassPrimary{
+    background-color: #609966;
+    color: #40513B;
+    font-size: xx-large;
+    margin: 10px;
+    outline: 2px solid #40513B;
+    outline-offset: 3px;
+    border-radius: 10px; 
+    text-decoration: none;
+    text-align: center;
+}
+
+.buttonClassPrimary:hover{
+    background-color: #40513B;
+    color: #609966;
+    font-size: xx-large;
+    margin: 10px;
+    outline: 2px solid #609966;
+    outline-offset: 3px;
+    border-radius: 10px; 
+    text-align: center;
+}
+
+.input{
+    background: #9DC08B;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px 10px 10px 10px;
+    margin: 15px;
+    text-align: center;
+}
+
+.alinear{
+    color: #40513B;
+    max-width: 300 px;
+    font-size: 2.5em;
+    font-family: Lato, sans-serif;
+    font-weight: 700;
+    line-height: 1.1;
+    margin: 40px 0;
+    text-align: center;  
+}
