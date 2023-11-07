@@ -1,0 +1,32 @@
+.conten{
+    background: #9DC08B;
+    padding: .4rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content:space-evenly;
+}
+
+h2{
+    color: #40513B;
+    font-weight: 400;
+}
+span{
+    font-weight: bold;
+}
+
+.Link{
+    color: #40513B;
+    font-size: large;
+    text-decoration: none;
+    margin-right: 1rem;
+    font-weight: bold;
+}
+
+.Link:hover{
+    color: #EDF1D6;
+    font-size: large;
+    margin-right: 1rem;
+    border-bottom: 2px solid #EDF1D6;
+    font-weight: bold;
+}
