@@ -23,13 +23,14 @@ function ClimaAPI() {
     
     return (
         <div>
+            <div className="alinear">
             <input className="input"
             type="text"
             placeholder="Ingresa una ciudad"
             onChange={(e) => setCiudad(e.target.value)}/>
 
             <button className="buttonClassPrimary" onClick={() => getWeatherData(ciudad)}>Obtener Clima</button>
-
+            </div>
             {/*Mostrar los datos si existen*/}
             {weatherData &&(
                 <div>

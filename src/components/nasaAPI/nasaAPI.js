@@ -22,8 +22,9 @@ function ClimaAPI() {
     
     return (
         <div> 
+            <div className="alinear">
             <button className="buttonClassPrimary" onClick={getNasaData}>Obtener Imagen</button>
-
+            </div>
             {/*Mostrar los datos si existen*/}
             {nasaData &&(        
             <div className="contenedor">

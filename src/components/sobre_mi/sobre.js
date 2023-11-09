@@ -7,8 +7,8 @@ function sobre(){
     <div className="contenedore">
         <div className="contenedorTexto">
             <h1>Estudiante de la carrera Ingieneria en Sistemas</h1>
-            <p className="textoss">Graduado en bachillerato en ciencias y letras con orientación en computación en el año 2019. Actualmente cursando el octavo ciclo de la carrera.
-      He realizado mis practicas dando un total de 304 horas de experiencia laboral. Actualmente me enfoco en finalizar mis estudios para amplear mis conocimientos.</p> 
+            <p className="textoss">Graduado en bachillerato en ciencias y letras con orientación en computación en el año 2019. Actualmente cursando el octavo ciclo de la carrera Universitaria.
+            Actualmente me enfoco en finalizar mis estudios para amplear mis conocimientos.</p> 
         </div>
         <div>
             <img className="contenedorImagene" src={imagenes.Mifoto} alt="foto"/>

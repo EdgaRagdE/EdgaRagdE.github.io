@@ -5,6 +5,7 @@ import mi from './imagenes/prueba.jpg'
 import yo from './imagenes/youtube.jpg'
 import na from './imagenes/nasa.jpg'
 import cl from './imagenes/clima.jpg'
+import mu from './imagenes/muestra.png'
 
 export default{
     "Paisaje1": p1,
@@ -13,5 +14,6 @@ export default{
     "Mifoto": mi,
     "youtube": yo,
     "nasa": na,
-    "clima": cl
+    "clima": cl,
+    "muestra": mu
 }

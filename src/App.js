@@ -4,7 +4,6 @@ import Header from './components/header/header';
 import Inicio from './components/inicio/inicio';
 import Sobre from './components/sobre_mi/sobre';
 import Proyectos from './components/proyectos/proyectos';
-import Contactos from './components/contacto/contacto';
 import NasaAPI from './components/nasaAPI/nasaAPI';
 import ClimaAPI from './components/climaAPI/climaAPI';
 import ContenedorYoutube from './components/contenedorYoutube/contenedorYoutube';
